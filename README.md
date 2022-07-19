@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SomeOrdinaryDEV
+- 👋 Hi, I’m Shrinivas Deshpande a.k.a SomeOrdinaryDEV
 - 👀 I’m interested in ...
 Python-
   Python Basics
